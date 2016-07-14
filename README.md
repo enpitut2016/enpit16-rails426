@@ -35,7 +35,7 @@ Railsチュートリアルが始められる環境が整います (Windows 10 / 
 1. [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html?ssSourceSiteId=otnjp)をインストールする
 2. [Vagrant](https://www.vagrantup.com/downloads.html)をインストールする
 3. Windowsの場合: 英字のローカルアカウントを作る (`ror`など)
-4. Windowsの場合: sshクライアント([TeraTerm](http://ttssh2.sourceforge.jp/)など)をインストールする
+4. Windowsの場合: sshクライアント([TeraTerm](http://ttssh2.sourceforge.jp/), Git bashなど)をインストールする
 5. `Vagrantfile` があるディレクトリに移動して、`vagrant up`を実行する
 6. `vagrant ssh` でゲストOSにログインする
 7. `ruby --version` や `rails --version` でちゃんと動くか確かめる
